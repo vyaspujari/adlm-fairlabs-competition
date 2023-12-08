@@ -7,7 +7,7 @@
 </p>
 <p>
     This year's competition is cohosted by the ADLM Data Analytics Steering Committee, the ADLM Health Equity and Access Division, the ADLM Informatics Division, and Washington University Section of Pathology Informatics. 
-    <strong>A representative of the winning team will be invited to speak at the 2024 ADLM Annual Scientific Meeting with travel support and free meeting registration included</strong>.
+    <strong><u>A representative of the winning team will be invited to speak at the 2024 ADLM Annual Scientific Meeting with travel support and free meeting registration included</strong></u>.
 </p>
 
 <h2> 
