@@ -9,7 +9,7 @@
     Overview
 </h3>
 <p>
-    The dataset is a real, de-identified clinical dataset consisting all patient encounters on the labor and delivery unit of a single, academic, tertiary-care center over a span of approximately two years, from 2/23/2027 to 3/12/2029 (we shifted the actual dates). The quality improvement initiative went live on 03/21/2028 on this shifted timescale.
+    The dataset is a real, de-identified clinical dataset consisting all patient encounters on the labor and delivery unit of a single, academic, tertiary-care center over a span of approximately two years, from 2/23/2027 to 3/12/2029 (actual dates were shifted to protect patient privacy). The quality improvement project went live on 03/21/2028 in this shifted timescale.
 </p>
 <p>    
     All results for first urine drug screens (UDS) per labor and delivery encounter are provided.
