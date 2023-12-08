@@ -17,7 +17,7 @@
     Additional features include the patient's self-reported race and whether or not a phone call was placed to Child Protective Services. A complete descipription of all columns in the data can be found below.
 </p>    
 <p>
-    The data are all contained in a single file with comma separated values - 'fairlabs_data.csv'. The data are in a wide format where each row represents a single labor and delivery encounter and each column represent a feature associated with that encounter.
+    The data are all contained in a single file with comma separated values - 'fairlabs_data.csv'. The data are in a wide format where each row represents a single labor and delivery encounter and each column represents a feature associated with that encounter.
 </p>
 <p>
     The use of these de-identified data for this competition has been reviewed and deemed as non-human research by the Human Research Protections Office at Washington University in St. Louis (IRB ID #xxxxxxx).
