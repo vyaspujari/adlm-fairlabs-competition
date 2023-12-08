@@ -61,7 +61,7 @@
     A recent retrospective study performed at Washington University School of Medicine identified history of isolated marijuana use (IMU) as the most frequently cited indication for peripartum UDS<sup>1</sup>.
     They demonstrated that 99% of the positive UDS ordered for this indication were positive for cannabis only.
     The vast majority (89.8%) of mothers with a positive UDS ordered for IMU were reported to CPS.
-    Of those mothers reported to CPS, 20.9% were White and 79.1% were Black despite positivity for a nonprescribed substance other than marijuana being 3 times more likely among White patients.
+    Of those mothers reported to CPS, 20.9% were White and 79.1% were Black despite only about 50% of mothers identifying as Black and positivity for a nonprescribed substance other than marijuana being 3 times more likely among White mothers.
 </p>
 <p>
     To try to address these inequities in UDS harms, a quality improvement initiative was developed.
