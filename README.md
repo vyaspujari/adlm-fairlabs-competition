@@ -134,7 +134,7 @@
    Competitors are highly encouraged to identify local stakeholders that would utilize a fairness monitor in practice. 
    Points will be awarded for running the analytical tool on a local dataset. 
    Please provide a screenshot of your local analysis (without PHI) and a short letter from the end user documenting their engagement.
-   Please summarize key finding from local activation.
+   Please summarize key findings from local activation.
 </p>
 <dl>
     <dt>
