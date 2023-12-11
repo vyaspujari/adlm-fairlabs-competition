@@ -82,7 +82,7 @@
     Scoring will be performed by expert reviewers using a standardized scoring rubric and blinded to the competitor's identity.
 </p>
 <h3>
-    Functionality (40 points)
+    Functionality (45 points)
 </h3>
 <p>
     There are many ways to conceptualize and quantify fairness<sup>2</sup>. 
@@ -110,6 +110,13 @@
         Axes and plots labeled (2 points)<br>
         Appropriate use of colors (2 points)<br>
         Appropriate sized fonts (2 points)<br>
+    </dd>
+    <dt>
+        Statistics
+    </dt>
+    <dd>
+        Confidence intervals provided for point estimates (2 points)<br>
+        Formal hypothesis testing (3 points) 
     </dd>
     <dt>
         User experience (10 points)
