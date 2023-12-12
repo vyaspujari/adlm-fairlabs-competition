@@ -20,7 +20,7 @@
     The data are all contained in a single file with comma separated values - 'fairlabs_data.csv'. The data are in a wide format where each row represents a single labor and delivery encounter and each column represents a feature associated with that encounter.
 </p>
 <p>
-    The use of these de-identified data for this competition has been reviewed and deemed as non-human research by the Human Research Protections Office at Washington University in St. Louis (IRB ID #xxxxxxx).
+    The use of these de-identified data for this competition has been reviewed and deemed as non-human research by the Human Research Protections Office at Washington University in St. Louis (IRB ID #202312060).
 </p>    
 
 <h3>
