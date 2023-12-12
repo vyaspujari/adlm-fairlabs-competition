@@ -47,7 +47,7 @@
     Benefits
 </dt>
 <dd>
-    Detection of specific compounds can be highly informative and guide immediate management decisions, as in the case of  opiate positivity leading to treatment of neonatal abstinance syndrome. 
+    Detection of specific compounds can be highly informative and guide immediate management decisions, as in the case of  opiate positivity leading to treatment of neonatal abstinence syndrome. 
     Additional benefits include the opportunity to provide counseling and support cessation efforts. 
     In other cases the clinical benefit is unclear, as in the detection of isolated cannabis positivity.
 </dd>
