@@ -224,7 +224,7 @@
     </tr>
     <tr>
         <th>
-            April 15<sup>th</sup>, 2024
+            May 15<sup>th</sup>, 2024
         </th>
         <td>
             Competition Ends
