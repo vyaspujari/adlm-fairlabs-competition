@@ -274,7 +274,7 @@
 <dl>
 <ol>
     <li>
-        Navigate to <a href='https://github.com/WUSM-LGM-Informatics-Section/adlm-fairlabs-competition'>https://github.com/ </a>
+        Navigate to <a href='https://github.com/WUSM-LGM-Informatics-Section/adlm-fairlabs-competition'>https://github.com/WUSM-LGM-Informatics-Section/adlm-fairlabs-competition </a>
     </li>
     <li>
         Click 'Fork'
