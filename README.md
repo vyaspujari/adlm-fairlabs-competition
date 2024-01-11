@@ -326,7 +326,8 @@
     <li>
         Click 'Create pull request'
     </li>
-    Note: we will review your pull request to ensure that it contain everything needed to score your submission
+    Note: we will review your pull request to ensure that it contain everything needed to score your submission<br>
+    <u><strong>Important: You must submit your solution by May 15th, 2024 to be eligible to win the competition</strong></u>
     </li>
 </ol>
 
