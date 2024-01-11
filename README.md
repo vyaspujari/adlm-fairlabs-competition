@@ -335,7 +335,7 @@
     Need Help?
 </h2>
 <p>
-    If you are unfamiliar with GitHub, need help getting starting, or have other questions, please email ???@adlm.org for assistance.
+    If you are unfamiliar with GitHub, need help getting starting, or have other questions, please email mboyle@myadlm.org for assistance.
 </p>
 
 <h2>
