@@ -248,6 +248,89 @@
     </tr>
 </table>
 
+
+<h2>
+    How to Participate
+</h2>
+
+<h3>
+    Sign up for a GitHub.com account
+</h3>
+<ol>
+    <li>
+        Navigate to <a href='https://github.com/'>https://github.com</a>
+    </li>
+    <li>
+        Click 'Sign up'
+    </li>
+    <li>
+        Follow the prompts to create your personal account
+    </li>
+</ol>
+
+<h3>
+    Fork the competition repository
+</h3>
+<dl>
+<ol>
+    <li>
+        Navigate to <a href='https://github.com/WUSM-LGM-Informatics-Section/adlm-fairlabs-competition'>https://github.com/ </a>
+    </li>
+    <li>
+        Click 'Fork'
+    </li>
+    <li>
+        Select 'Create a new fork'
+    </li>
+    <li>
+        Set your GitHub account as the owner (defaut)
+    </li>
+    <li>
+        Click 'Create fork'
+    </li>
+</ol>
+
+<h3>
+    Build your solution
+</h3>
+<ol>
+    <li>
+        Clone the forked repository<br>
+        <span style='background-color:lightgray;padding:5px;border-radius:10px'>
+            git clone https://github.com/myGitHubUsername/adlm-fairlabs-competition.git
+        </span><br>
+        Note: Replace myGitHubUsername with your GitHub handle
+    </li>
+    <li>
+        Make a folder in the cloned repository with your team name
+    </li>
+    <li>
+        Build your solution within your team folder
+    </li>
+</ol>
+
+<h3>
+    Submit your solution via a pull request
+</h3>
+<ol>
+    <li>
+        Navigate to <a href='https://github.com/myGitHubUsername/adlm-fairlabs-competition'>https://github.com/myGitHubUsername/adlm-fairlabs-competition</a><br>
+        Note: Replace myGitHubUsername with your GitHub handle
+    </li>
+    <li>
+        Click 'Contribute'
+    </li>
+    <li>
+        Select 'Open pull request'<br>
+    </li>
+    <li>
+        Click 'Create pull request'
+    </li>
+    Note: we will review your pull request to ensure that it contain everything needed to score your submission
+    </li>
+</ol>
+
+
 <h2>
     Reference
 </h2>
