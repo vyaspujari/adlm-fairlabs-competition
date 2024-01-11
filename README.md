@@ -240,7 +240,7 @@
     </tr>
     <tr>
         <th>
-            July 29<sup>th</sup>, 2024
+            July 29<sup>th</sup>, 2024 (Anticipated)
         </th>
         <td>
             Presentation from Winning Team
