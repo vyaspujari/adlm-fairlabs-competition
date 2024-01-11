@@ -332,6 +332,13 @@
 
 
 <h2>
+    Need Help?
+</h2>
+<p>
+    If you are unfamiliar with GitHub, need help getting starting, or have other questions, please email ???@adlm.org for assistance.
+</p>
+
+<h2>
     Reference
 </h2>
 <ol style="line-spacing:4">
